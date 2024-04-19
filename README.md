@@ -10,7 +10,7 @@ Collect data with:
 
 Start model now
 
-Optionally, terminate observe.py to data collection: 
+Optionally, terminate observe.py to stop data collection: 
 
     Ctrl+C
 
